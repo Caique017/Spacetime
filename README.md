@@ -28,7 +28,7 @@ Where is it to register user as soon as you authenticate via github get the clie
 
 |                           Splash Screen                           |                              Home                               |                       Memory screen                       |
 | :---------------------------------------------------------------: | :-------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="./assets/splash.png" width="250" /> | <img src="./assets/HomeMobile.png" width="250" /> | <img src="./assets/CreateMobile.png" width="250" /> |
+| <img src="./assets/Splash.png" width="250" /> | <img src="./assets/HomeMobile.png" width="250" /> | <img src="./assets/CreateMobile.png" width="250" /> |
 
 Screen where the memories registered and saved in the application's database will be displayed, with the option of creating another memory.
 
