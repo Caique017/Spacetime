@@ -89,7 +89,7 @@ $ npm run dev
 # If you prefer to use Yarn, run the command below
 $ yarn dev
 
-# The server will start on port 5173 - go to <http://localhost:5173>
+# The server will start on port 5173 - go to <http://localhost:3000>
 ```
 
 ### 📱 Running the App (Mobile)
